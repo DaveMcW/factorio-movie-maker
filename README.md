@@ -12,7 +12,7 @@ This project encodes a 178x100 3-bit color movie in a [Factorio](http://www.fact
 
 4. Start Factorio and load movie.zip.
 
-5. Open each file in the scripts directory, select all, and copy/paste it into the Factorio console.
+5. Open each file in the script directory, select all, and copy/paste it into the Factorio console.
 
 6. Open the constant combinator at position {-183,-1}.  Change the red signal to the frame count of your movie.
 
